@@ -1,0 +1,58 @@
+.modal-footer {   border-top: 100px; }
+
+
+#loginModal{
+	background:#FF8C00 ;
+}
+.modal-content{
+	background:#E77811;
+	border:1px solid rgba(0,0,0,2);
+}
+
+
+.contenedor-imagen-pequeña{
+
+	background: #464646;
+	width: 25%;
+	height: 25%;
+	/*left: 37.5%;
+	position: absolute;*/
+
+}
+
+h5{
+	color: #FFFFFF;
+}
+img{
+	/*height: auto;*/
+	width: 150%;
+	
+}
+
+.btn-primary{
+	max-width: 150px;
+	display: block;
+    margin : 0 auto;
+}
+
+
+.inner-addon { 
+    position: relative; 
+}
+
+/* style icon */
+.inner-addon .glyphicon {
+  position: absolute;
+  padding: 15px;
+  pointer-events: none;
+}
+
+/* align icon */
+.left-addon .glyphicon  { left:  0px;}
+/*.right-addon .glyphicon { right: 0px;}*/
+
+/* add padding  */
+.left-addon input  { padding-left:  30px; }
+/*.right-addon input { padding-right: 30px; }
+
+
